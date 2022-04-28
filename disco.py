@@ -2332,7 +2332,7 @@ cut_icgray_p = "[0.2]*400+[0]*600"#@param {type: 'string'}
 # !!    "id": "Prompts"
 # !! }}
 text_prompts = {
-    0: ["A beautiful painting of a singular lighthouse, shining its light across a tumultuous sea of blood by greg rutkowski and thomas kinkade, Trending on artstation.", "yellow color scheme"],
+    0: ["Futuristic cyberpunk picture of a car with bright lights and lots of graphics by Khyzyl Saleem, trending on art station.", "blue color scheme"],
     100: ["This set of prompts start at frame 100","This prompt has weight five:5"],
 }
 
